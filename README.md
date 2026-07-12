@@ -21,25 +21,11 @@ This project is an interactive Power BI dashboard developed to monitor food dona
 - DAX
 - Power Query
 
-## Dashboard Preview
-
-### Home Dashboard
-
-![Dashboard](dashboard1.png)
-
-### Analytics Dashboard
-
-![Analytics](dashboard2.png)
-
-### Forecast Dashboard
-
-![Forecast](dashboard3.png)
-
 ## Files Included
 
 - Food_Waste_Dashboard.pbix
 - README.md
-- Dashboard Screenshots
+- Dashboard Screenshot
 
 ## Future Enhancements
 
