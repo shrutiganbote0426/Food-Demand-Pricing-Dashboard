@@ -1,4 +1,4 @@
-# Food Waste Tracking Dashboard
+# 🍽️ Food Waste Tracking Dashboard
 
 ## Overview
 
@@ -14,6 +14,14 @@ This project is an interactive Power BI dashboard developed to monitor food dona
 - KPI Cards
 - Trend Analysis
 
+## Dashboard Preview
+
+### Main Dashboard
+
+![Food Waste Dashboard](dashboard.png)
+
+> Replace `dashboard.png` with your actual screenshot filename if it is different.
+
 ## Tools Used
 
 - Power BI
@@ -23,9 +31,9 @@ This project is an interactive Power BI dashboard developed to monitor food dona
 
 ## Files Included
 
-- Food_Waste_Dashboard.pbix
-- README.md
-- Dashboard Screenshot
+- `Food_Waste_Dashboard.pbix`
+- `README.md`
+- `dashboard.png`
 
 ## Future Enhancements
 
